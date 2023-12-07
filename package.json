@@ -4,6 +4,7 @@
 	"description": "freeCodeCamp learning Back End Development and APIs",
 	"keywords": ["freecodecamp", "learning", "package.json", "npm"],
 	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
