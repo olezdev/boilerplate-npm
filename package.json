@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "olezdev",
 	"description": "freeCodeCamp learning Back End Development and APIs",
-	"keywords": ["freeCodeCamp", "learning", "package.json", "npm"],
+	"keywords": ["freecodecamp", "learning", "package.json", "npm"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
